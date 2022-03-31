@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Anand Hedau
 - 👀 I’m interested in web page designing
 - 🌱 I’m currently learning Master Of Computer Application
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with company
 - 📫 How to reach me ...
 
 <!---
